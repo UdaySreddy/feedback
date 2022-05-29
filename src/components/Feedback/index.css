@@ -1,0 +1,43 @@
+/* Write your CSS code here. */
+.listElement {
+  list-style: none;
+}
+.image1 {
+  width: 40%;
+  height: 30%;
+}
+.mainList {
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+}
+.buttonn1 {
+  background-color: transparent;
+  border: 0px;
+  padding: 10px;
+}
+.maincontainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.thanksContainer {
+  background-color: #ffffff;
+  margin: auto;
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.image2 {
+  height: 30%;
+  width: 10%;
+  align-self: center;
+}
